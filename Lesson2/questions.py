@@ -12,4 +12,3 @@ while True:
     
     else:
         print('Такого вопроса нет')
-            
